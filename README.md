@@ -1,3 +1,9 @@
+Disclaimer
+===
+This entire HTML page was designed by @ajlkn. This page is strictly for fun and to re-direct to different projects I'm doing, and should not be seen as a portfolio, since I have no front end skills / eye whatsoever. Below is the original README.txt provided by @ajlkn.
+
+---
+
 Aerial by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
